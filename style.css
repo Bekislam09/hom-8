@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: gold;
+    font-size: 30px;
+}
+#name{
+    margin-left: 530px;
+    width: 280px;
+    height: 35px;
+    border-radius: 30px;
+}
+#password{
+    margin-left: 530px;
+    width: 280px;
+    height: 35px;
+    border-radius: 30px;
+}
+p{
+    text-align: center;
+}
+#save{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-left: 570px;
+}
